@@ -1,0 +1,33 @@
+{
+  "name": "@tasshi/demo-publish-node-cli-tool",
+  "version": "1.0.0",
+  "description": "Demo repository publishing Node.js based CLI to npm registry using pnpm",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Masaharu TASHIRO <tasshi.me@gmail.com>",
+  "bin": {
+    "demo-cli": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasshi-playground/demo-publish-node-cli-tool.git"
+  },
+  "files": [
+    "CHANGELOG.md",
+    "cli.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/tasshi-playground/demo-publish-node-cli-tool/issues"
+  },
+  "homepage": "https://github.com/tasshi-playground/demo-publish-node-cli-tool/#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@8.15.9",
+  "keywords": [],
+  "license": "MIT"
+}
