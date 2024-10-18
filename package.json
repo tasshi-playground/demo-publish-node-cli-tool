@@ -1,6 +1,6 @@
 {
   "name": "@tasshi/demo-publish-node-cli-tool",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Demo repository publishing Node.js based CLI to npm registry using pnpm",
   "publishConfig": {
     "access": "public"
