@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/tasshi-playground/demo-publish-node-cli-tool/compare/v0.1.0...v0.1.1) (2025-11-08)
+
+
+### Continuous Integration
+
+* use trusted publishing ([#3](https://github.com/tasshi-playground/demo-publish-node-cli-tool/issues/3)) ([5d22a4e](https://github.com/tasshi-playground/demo-publish-node-cli-tool/commit/5d22a4e9d0a8b1afb720ea942718ea21758b488b))
+
 ## [0.1.0](https://github.com/tasshi-playground/demo-publish-node-cli-tool/compare/v0.0.1...v0.1.0) (2024-10-18)
 
 
